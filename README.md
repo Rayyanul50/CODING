@@ -175,7 +175,7 @@ class MovieStreamingApp:
         # Title
         title_label = tk.Label(main_frame,
                              text="Join FROZZLE",
-                             font=('Arial', 24, 'bold'),
+                             font=('Arial', 24, 'bold'),    
                              fg='white',
                              bg='#0a0a0a')
         title_label.pack(pady=20)
